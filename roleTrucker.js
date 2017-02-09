@@ -1,0 +1,15 @@
+/*
+ * Module code goes here. Use 'module.exports' to export things:
+ * module.exports.thing = 'a thing';
+ *
+ * You can import it from another modules like this:
+ * var mod = require('roleTrucker');
+ * mod.thing == 'a thing'; // true
+ */
+
+module.exports.truckie = function truckie(creep) {
+
+    
+
+
+};
